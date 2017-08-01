@@ -1,0 +1,191 @@
+body{
+    background-color:#1d152d;
+    background-image: url("wa/Back3.jpg");
+}
+.logo{
+    width: 25vw;
+    margin: 0px;
+    min-height: 150px;
+    min-width: 150px;
+}
+
+.csgoroll{
+    position:absolute;
+    left:20%;
+    top:20%;
+    border-width: 0px;
+    background-image: url("wa/csgoroll.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    outline:0;
+
+}
+.csgoroll:hover{
+    border-width: 0px;
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
+    background-image: url("wa/csgoroll.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    cursor: pointer;
+    outline:0;
+}
+.greenhunt{
+    position:absolute;
+    left:35%;
+    top:20%;
+    border-width: 0px;
+    background-image: url("wa/greenhunt.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    outline:0;
+
+}
+.greenhunt:hover{
+    border-width: 0px;
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
+    background-image: url("wa/greenhunt.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    cursor: pointer;
+    outline:0;
+}
+.csgobounty{
+    position:absolute;
+    left:50%;
+    top:20%;
+    border-width: 0px;
+    background-image: url("wa/csgobounty.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    outline:0;
+
+}
+.csgobounty:hover{
+    border-width: 0px;
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
+    background-image: url("wa/csgobounty.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    cursor: pointer;
+    outline:0;
+}
+.csgofast{
+    position:absolute;
+    left:65%;
+    top:20%;
+    border-width: 0px;
+    background-image: url("wa/csgofast.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    outline:0;
+
+}
+.csgofast:hover{
+    border-width: 0px;
+    background-image: url("wa/csgofast.svg");
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    cursor: pointer;
+    outline:0;
+}
+.skinhub{
+    position:absolute;
+    left:20%;
+    top: calc(20% + 15vw);
+    border-width: 0px;
+    background-image: url("wa/skinhub.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    outline:0;
+}
+.skinhub:hover{
+    border-width: 0px;
+    background-image: url("wa/skinhub.svg");
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    cursor: pointer;
+    outline:0;
+}
+.csgoempire{
+    position:absolute;
+    left:35%;
+    top: calc(20% + 15vw);
+    border-width: 0px;
+    background-image: url("wa/csgoempire.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    outline:0;
+}
+.csgoempire:hover{
+    border-width: 0px;
+    background-image: url("wa/csgoempire.svg");
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    cursor: pointer;
+    outline:0;
+}
+.wildcase{
+    position:absolute;
+    left:50%;
+    top: calc(20% + 15vw);
+    border-width: 0px;
+    background-image: url("wa/Wildcase.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    outline:0;
+}
+.wildcase:hover{
+    border-width: 0px;
+    background-image: url("wa/Wildcase.svg");
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    cursor: pointer;
+    outline:0;
+}
+.csgopolygon{
+    position:absolute;
+    left:65%;
+    top: calc(20% + 15vw);
+    border-width: 0px;
+    background-image: url("wa/csgopolygon.svg");
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    outline:0;
+}
+.csgopolygon:hover{
+    border-width: 0px;
+    background-image: url("wa/csgopolygon.svg");
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
+    background-size: 12vw 12vw;
+    width: 12vw;
+    height: 12vw;
+    cursor: pointer;
+    outline:0;
+}
