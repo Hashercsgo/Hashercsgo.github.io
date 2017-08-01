@@ -37,7 +37,7 @@ body{
     left:35%;
     top:20%;
     border-width: 0px;
-    background-image: url("wa/greenhunt.svg");
+    background-image: url("wa/GreenHunt.svg");
     background-size: 12vw 12vw;
     width: 12vw;
     height: 12vw;
@@ -48,7 +48,7 @@ body{
     border-width: 0px;
     -webkit-filter: brightness(75%);
     filter: brightness(75%);
-    background-image: url("wa/greenhunt.svg");
+    background-image: url("wa/GreenHunt.svg");
     background-size: 12vw 12vw;
     width: 12vw;
     height: 12vw;
@@ -106,7 +106,7 @@ body{
     left:20%;
     top: calc(20% + 15vw);
     border-width: 0px;
-    background-image: url("wa/skinhub.svg");
+    background-image: url("wa/Skinhub.svg");
     background-size: 12vw 12vw;
     width: 12vw;
     height: 12vw;
@@ -114,7 +114,7 @@ body{
 }
 .skinhub:hover{
     border-width: 0px;
-    background-image: url("wa/skinhub.svg");
+    background-image: url("wa/Skinhub.svg");
     -webkit-filter: brightness(75%);
     filter: brightness(75%);
     background-size: 12vw 12vw;
